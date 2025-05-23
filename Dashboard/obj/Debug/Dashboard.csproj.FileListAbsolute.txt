@@ -1,0 +1,11 @@
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.frmPainelComtrole.resources
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\laryssa.fsilva5\Documents\Visual Studio 2022\GSFrancisco-CSharp-MeuProjeto\MeuProjetoEmCSharp\Dashboard\obj\Debug\Dashboard.frmInvestStore.resources
